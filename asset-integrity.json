@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "description": "SHA-256 of the 13 existing final logo deliverables, captured before directory reorganization. Logo designs and file bytes are unchanged. Presentation boards are intentionally excluded.",
+  "assets": [
+    {
+      "path": "collegium-magicarum-scientiarum-logo/png/owl-quill-seal-monochrome.png",
+      "sha256": "7518768e5b3139605361e941eab33e73981eaf8067821f31f3c1aa5b6c5f49c1",
+      "bytes": 639319
+    },
+    {
+      "path": "collegium-magicarum-scientiarum-logo/svg/owl-quill-seal-monochrome.svg",
+      "sha256": "d22942f52a3603f4bc9c59c7d2589f62349818e70a3de372cf24fa3e4340983c",
+      "bytes": 202151
+    },
+    {
+      "path": "collegium-magicarum-scientiarum-logo/png/owl-quill-wax-seal-embossed.png",
+      "sha256": "b4724724f94980d3f91a292a07f284ef7aed08641b0bbe117106a55144af1f7c",
+      "bytes": 1807802
+    },
+    {
+      "path": "collegium-magicarum-scientiarum-logo/svg/owl-quill-wax-seal-embossed.svg",
+      "sha256": "6f8673439587392f45f3d3dd773d19798dd3a278c968b4e0dd9bc85ee1d65395",
+      "bytes": 203058
+    },
+    {
+      "path": "collegium-magicarum-scientiarum-logo/png/owl-quill-wax-seal-transparent.png",
+      "sha256": "e0ec767569040aa0b70395f3df7020b5717ca682c0ec0c911c3e7f034eb5af02",
+      "bytes": 660131
+    },
+    {
+      "path": "collegium-magicarum-scientiarum-logo/png/owl-quill-wax-seal.png",
+      "sha256": "724c1974c6e3f75f207a0a682d356d79cc1291f58b26b377f158c9853e44f579",
+      "bytes": 684919
+    },
+    {
+      "path": "collegium-magicarum-scientiarum-logo/svg/owl-quill-wax-seal.svg",
+      "sha256": "6db3e7a2d9a632e6d2a3d72130771a11ff75dfc96c2439c8265493be8151e759",
+      "bytes": 202236
+    },
+    {
+      "path": "institutum-scientiae-magicae-logo/svg/logo-editable.svg",
+      "sha256": "ffb260c8ffafa80fd119ba28a9d1cd3947d4131cafdc0c3146ad8a02c345d830",
+      "bytes": 1290588
+    },
+    {
+      "path": "institutum-scientiae-magicae-logo/png/logo-icon-256.png",
+      "sha256": "1b7c35283d97b8ab8e3fcf7cfde92e623ce35fb4d0b43cd2321e450d52f9f93e",
+      "bytes": 32674
+    },
+    {
+      "path": "institutum-scientiae-magicae-logo/png/logo-icon.png",
+      "sha256": "3945a17abc7b8a04a37a21654a2a303748f54097c405b418fee89e711fde9446",
+      "bytes": 93847
+    },
+    {
+      "path": "institutum-scientiae-magicae-logo/svg/logo-icon.svg",
+      "sha256": "c5cfd88b6abe53510d068a69bc10baaeb3a2cafb4c326cc82728dd7957a75fe3",
+      "bytes": 1282568
+    },
+    {
+      "path": "institutum-scientiae-magicae-logo/png/logo-preview.png",
+      "sha256": "0afdd7eb769cc509042b5d8e4f4abac9621467a032ca77a974fa59b3d0f7b4dd",
+      "bytes": 531985
+    },
+    {
+      "path": "institutum-scientiae-magicae-logo/svg/logo.svg",
+      "sha256": "622a647ba25f658e9ff2b480947f5560bcc30a261288147535a98d72380d22bf",
+      "bytes": 1310353
+    }
+  ]
+}

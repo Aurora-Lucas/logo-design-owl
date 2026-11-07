@@ -1,0 +1,15 @@
+{
+  "name": "aurora-logo-design-owl",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Build tools for two unchanged owl emblem designs and matching presentation boards.",
+  "license": "CC-BY-NC-4.0",
+  "scripts": {
+    "export:collegium": "node collegium-magicarum-scientiarum-logo/scripts/export.mjs",
+    "export:institutum": "node institutum-scientiae-magicae-logo/scripts/finish_logo.cjs"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "0.1.100",
+    "sharp": "0.35.5"
+  }
+}

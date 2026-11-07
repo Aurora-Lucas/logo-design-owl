@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <title>Letter cartouches for Litt. and Phil.</title>
+  <defs>
+    <path id="letter-cartouche-shape" d="M-67-49C-57-49-56-58-42-58H42C56-58 57-49 67-49C63-37 77-31 77-18V18C77 31 63 37 67 49C56 49 55 58 42 58H-42C-55 58-56 49-67 49C-63 37-77 31-77 18V-18C-77-31-63-37-67-49Z"/>
+  </defs>
+  <g id="letter-cartouches" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round">
+    <use href="#letter-cartouche-shape" transform="translate(317 458)"/>
+    <use href="#letter-cartouche-shape" transform="translate(708 624)"/>
+  </g>
+</svg>

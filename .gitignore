@@ -1,0 +1,39 @@
+# Local history and material excluded from the latest published version.
+.local-only/
+archive/
+backups/
+字体/
+*.zip
+*.bak
+*.backup
+*.original.*
+*~
+*.tmp
+final-review-comparison.png
+size-and-transparency-check.png
+
+# Third-party font binaries are supplied under their own licences.
+*.otf
+*.ttf
+*.ttc
+*.woff
+*.woff2
+
+# Dependencies, caches, editor state, credentials and local app configuration.
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+.codex/
+.agents/
+.aws/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa*
+id_ed25519*
